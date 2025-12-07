@@ -1,5 +1,5 @@
 """
-Intelligent Study Planner — Corrected with Timetable
+Intelligent Study Planner — Generated with Timetable
 """
 
 import json
