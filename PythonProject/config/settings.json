@@ -1,0 +1,5 @@
+{
+  "reminder_days": 2,
+  "reschedule_strategy": "round_robin",
+  "plan_min_hours": 1
+}

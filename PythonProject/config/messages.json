@@ -1,0 +1,11 @@
+{
+  "welcome": "\ud83e\udd16 Intelligent Study Planner (Beginner)",
+  "invalid_cmd": "\u274c Unknown command!",
+  "cmd_hint": "Try: add subject / plan / schedule / reschedule / timetable / reset / exit",
+  "invalid_diff": "\u274c Difficulty must be low / medium / high",
+  "added": "\u2714 Added subject '{name}'",
+  "invalid_format_add": "\u274c Use: add subject <name> <difficulty> <deadline> <marks>",
+  "invalid_format_res": "\u274c Use: reschedule <subject> <YYYY-MM-DD>",
+  "invalid_date": "\u274c Date must be YYYY-MM-DD",
+  "not_found": "\u274c Subject '{name}' not found!"
+}

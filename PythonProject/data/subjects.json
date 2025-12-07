@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Math",
+    "difficulty": 3,
+    "deadline": "2025-12-20",
+    "marks": 72
+  },
+  {
+    "name": "Sci",
+    "difficulty": 2,
+    "deadline": "2025-12-15",
+    "marks": 80
+  },
+  {
+    "name": "Tam",
+    "difficulty": 1,
+    "deadline": "2025-12-21",
+    "marks": 91
+  },
+  {
+    "name": "Eng",
+    "difficulty": 2,
+    "deadline": "2025-12-09",
+    "marks": 65
+  }
+]
