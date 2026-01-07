@@ -35,9 +35,6 @@ This project was developed as a **Mini Project** for the course, with submission
 
 ## Project Structure
 
-![Uploading image.png…]()
-
-
 Intelligent-Study-Planner/
 │
 ├── config/ # Configuration files (difficulty, messages, settings)
