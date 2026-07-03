@@ -3,7 +3,7 @@
 ## Overview
 The **Intelligent Study Planner** is an AI-assisted application designed to help students efficiently plan their study schedule based on subject difficulty, deadlines, and past performance. It provides a personalized study timetable, predicts required study hours using a simple machine learning model, detects deadline clashes, and offers reminders for upcoming deadlines.
 
-This project was developed as a **Mini Project** for the course, with submission date: **30th November 2025**.
+This project was developed on **30th November 2025**.
 
 ---
 
